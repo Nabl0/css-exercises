@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.aclass{
+    background-color: lightcoral;
+}
+#anId{
+    font-size: large;
+    color: blue;
+}
+.classButCooler{
+    background-color: lightcoral;
+    font-size: x-large;
+}
+#divID{
+    font-size: 1.3em;
+    background-color: green;
+}
